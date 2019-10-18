@@ -1,82 +1,82 @@
 
 [
    {
-      date: "2019-01-23",
+      date: "2019/01/23",
       "videomades": 60,
        "subscriptions": 30
    },
    {
-      date: "2019-01-24",
+      date: "2019/01/24",
       "videomades": 10,
        "subscriptions": 40
    },
    {
-     date: "2019-01-25",
+     date: "2019/01/25",
       "videomades": 30,
        "subscriptions": 20
    },
    {
-     date: "2019-01-26",
+     date: "2019/01/26",
       "videomades": 10,
        "subscriptions": 80
    },
    {
-     date: "2019-01-27",
+     date: "2019/01/27",
       "videomades": 30,
        "subscriptions": 40
    },
    {
-      date: "2019-01-28",
+      date: "2019/01/28",
       "videomades": 40,
        "subscriptions": 10
    },
    {
-    date: "2019-01-29",
+    date: "2019/01/29",
       "videomades": 50,
        "subscriptions": 70
    },
    {
-      date: "2019-02-01",
+      date: "2019/02/01",
       "videomades": 50,
        "subscriptions": 80
    },
    {
-      date: "2019-02-02",
+      date: "2019/02/02",
       "videomades": 60,
        "subscriptions": 30
    },
    {
-      date: "2019-02-03",
+      date: "2019/02/03",
       "videomades": 20,
        "subscriptions": 10
    },
    {
-     date: "2019-02-04",
+     date: "2019/02/04",
       "videomades": 30,
        "subscriptions": 70
    },
    {
-      date: "2019-02-05",
+      date: "2019/02/05",
       "videomades": 40,
        "subscriptions": 80
    },
    {
-     date: "2020-01-04",
+     date: "2020/01/04",
       "videomades": 70,
        "subscriptions": 50
    },
    {
-      date: "2020-01-05",
+      date: "2020/01/05",
       "videomades": 20,
        "subscriptions": 10
    },
    {
-      date: "2020-01-06",
+      date: "2020/01/06",
       "videomades": 40,
        "subscriptions": 70
    },
    {
-     date: "2019-01-23",
+     date: "2019/01/23",
       "videomades": 50,
        "subscriptions": 20
    }
