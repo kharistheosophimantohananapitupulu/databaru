@@ -1,19 +1,19 @@
 {
-    "world":[
+    "game":[
    
 
     {
-       "date":  "Aug 4, 2019",
+       "date":  "2019/01/23",
        "videomades": 60,
         "subscriptions": 30
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/01/24",
        "videomades": 10,
         "subscriptions": 40
     },
     {
-        "date": "Aug 4, 2019",
+        "date":"2019/01/25",
        "videomades": 30,
         "subscriptions": 20
     },
@@ -23,62 +23,62 @@
         "subscriptions": 80
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/01/27",
        "videomades": 30,
         "subscriptions": 40
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/01/28",
        "videomades": 40,
         "subscriptions": 10
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/23",
        "videomades": 50,
         "subscriptions": 70
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/24",
        "videomades": 50,
         "subscriptions": 80
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/25",
        "videomades": 60,
         "subscriptions": 30
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/26",
        "videomades": 20,
         "subscriptions": 10
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/27",
        "videomades": 30,
         "subscriptions": 70
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2019/02/28",
        "videomades": 40,
         "subscriptions": 80
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2020/01/01",
        "videomades": 70,
         "subscriptions": 50
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2020/01/02",
        "videomades": 20,
         "subscriptions": 10
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2020/01/03",
        "videomades": 40,
         "subscriptions": 70
     },
     {
-        "date": "Aug 4, 2019",
+        "date": "2020/01/04",
        "videomades": 50,
         "subscriptions": 20
     }
