@@ -1,82 +1,82 @@
 
 [
    {
-      date:  "Aug 4, 2019",
+      "date":  "Aug 4, 2019",
       "videomades": 60,
        "subscriptions": 30
    },
    {
-      date: "Aug 4, 2019",
+   "date": "Aug 4, 2019",
       "videomades": 10,
        "subscriptions": 40
    },
    {
-     date: "Aug 4, 2019",
+"date": "Aug 4, 2019",
       "videomades": 30,
        "subscriptions": 20
    },
    {
-     date: "2019/01/26",
+    "date": "2019/01/26",
       "videomades": 10,
        "subscriptions": 80
    },
    {
-     date: "Aug 4, 2019",
+  "date": "Aug 4, 2019",
       "videomades": 30,
        "subscriptions": 40
    },
    {
-      date: "Aug 4, 2019",
+   "date": "Aug 4, 2019",
       "videomades": 40,
        "subscriptions": 10
    },
    {
-    date: "Aug 4, 2019",
+  "date": "Aug 4, 2019",
       "videomades": 50,
        "subscriptions": 70
    },
    {
-      date: "Aug 4, 2019",
+   "date": "Aug 4, 2019",
       "videomades": 50,
        "subscriptions": 80
    },
    {
-      date: "Aug 4, 2019",
+     "date": "Aug 4, 2019",
       "videomades": 60,
        "subscriptions": 30
    },
    {
-      date: "Aug 4, 2019",
+     "date": "Aug 4, 2019",
       "videomades": 20,
        "subscriptions": 10
    },
    {
-     date: "Aug 4, 2019",
+"date": "Aug 4, 2019",
       "videomades": 30,
        "subscriptions": 70
    },
    {
-      date: "Aug 4, 2019",
+     "date": "Aug 4, 2019",
       "videomades": 40,
        "subscriptions": 80
    },
    {
-     date: "Aug 4, 2019",
+  "date": "Aug 4, 2019",
       "videomades": 70,
        "subscriptions": 50
    },
    {
-      date: "Aug 4, 2019",
+     "date": "Aug 4, 2019",
       "videomades": 20,
        "subscriptions": 10
    },
    {
-      date: "Aug 4, 2019",
+    "date": "Aug 4, 2019",
       "videomades": 40,
        "subscriptions": 70
    },
    {
-     date: "Aug 4, 2019",
+   "date": "Aug 4, 2019",
       "videomades": 50,
        "subscriptions": 20
    }
